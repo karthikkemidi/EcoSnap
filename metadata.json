@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "EcoSnap - AI Waste Sorter",
+  "description": "",
+  "prompt": ""
+}
